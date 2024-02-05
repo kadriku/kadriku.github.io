@@ -1,0 +1,92 @@
+
+
+h1 {
+color: rgb(220, 113, 13);
+background-color: #12496f;
+text-align: center;
+padding: 10px;
+text-shadow: 1px 1.5px 1px rgb(0, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+}
+    
+p {
+color: rgb(5, 80, 155);
+background-color: orange;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+margin:10px;
+width:90%;
+padding-top: 10px;
+ }
+    
+h6 {
+color: rgb(238, 107, 41);
+background-color: antiquewhite;
+text-align: center;
+padding: auto;
+font-family: Arial, Helvetica, sans-serif;
+}
+    
+body {
+background-color: antiquewhite;
+background-image: url(myBackground.jpeg);
+background-size: 250px;
+background-blend-mode: darken;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin: auto;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#KadriaPhoto{
+    float: left;
+    padding: 10px;
+    margin: 5px;
+}
+
+.aboutmefacts{
+    color: rgb(5, 80, 155);
+        background-color: orange;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 15px;
+}
+
+#cryingcatphoto{
+    float: right;
+}
+
+#javabodytext{
+    background-color: orange;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    background-color: #12496f;
+    justify-content: space-evenly;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.grid-item {
+    background-color: orange;
+    border: 1px solid #12496f;
+    padding: 20px;
+    font-size:medium;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #12496f;
+}
