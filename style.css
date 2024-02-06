@@ -7,6 +7,7 @@ text-align: center;
 padding: 10px;
 text-shadow: 1px 1.5px 1px rgb(0, 0, 0);
 font-family: Arial, Helvetica, sans-serif;
+justify-content: space-evenly;
 }
     
 p {
@@ -17,6 +18,7 @@ font-family: Arial, Helvetica, sans-serif;
 margin:10px;
 width:90%;
 padding-top: 10px;
+justify-content: space-evenly;
  }
     
 h6 {
@@ -25,6 +27,7 @@ background-color: antiquewhite;
 text-align: center;
 padding: auto;
 font-family: Arial, Helvetica, sans-serif;
+justify-content: space-evenly;
 }
     
 body {
@@ -35,6 +38,7 @@ background-blend-mode: darken;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
 margin: auto;
+justify-content: space-evenly;
 }
 
 .center{
@@ -89,4 +93,5 @@ margin: auto;
     align-items: center;
     justify-content: center;
     color: #12496f;
+    font-family: Arial, Helvetica, sans-serif;
 }
