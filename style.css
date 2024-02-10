@@ -117,3 +117,7 @@ border: 5px solid #12496f;
     background-color: orange;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.script{
+    max-width: 600px;
+}
