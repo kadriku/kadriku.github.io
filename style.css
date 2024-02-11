@@ -58,21 +58,20 @@ justify-content: space-evenly;
         margin: 15px;
 }
 
-#bitmoji_inspo{
-    float: right;
-        padding: 10px;
-        margin: 5px;
-}
-
 #javabodytext{
     background-color: orange;
     color: rgb(5, 80, 155);
-    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    padding-left: 15px;
+    text-align: center;
+    padding-top: 10px;
     padding-bottom: 10px;
-    max-width: 800px;
+    padding-left: 30px;
+    padding-right: 10px;
+    margin: auto;
+    max-width: 850px;
+    display:block;
     border: 10px #12496f;
+    justify-content: center;
 }
 
 .grid-container {
@@ -116,8 +115,4 @@ border: 5px solid #12496f;
     color: rgb(5, 80, 155);
     background-color: orange;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.script{
-    max-width: 600px;
 }
